@@ -7,7 +7,7 @@
   "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.infinite.tools",
-  "Version": "1.1"
+  "Version": "1.1",
 
   "visibilitydownload":"VISIBLE",
  "ref":"hdjhk",
@@ -15,6 +15,6 @@
  "l2":"https://bit.ly/MortsVIPTGYTYs",
  "button1":"SHOW",
  "but1":"VIEW",
- "but2":"DOWNLOAD",
+ "but2":"DOWNLOAD"
   
 }
