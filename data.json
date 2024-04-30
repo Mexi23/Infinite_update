@@ -1,15 +1,15 @@
 {
   
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Updates Available",
   "Description": "Infinite Tools GFX recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.infinite.tools.ml",
-  "Version": "1.2",
+  "Version": "1.3",
 
-  "visibilitydownload":"DISABLE",
+  "visibilitydownload":"VISIBLE",
  "ref":"hdjhk",
  "l1":"https://youtu.be/aA-dhUHsQ_I?si=2Yorhns20TP0UFin",
  "l2":"https://bit.ly/MortsVIPTGYTYs",
